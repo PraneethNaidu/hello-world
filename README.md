@@ -1,2 +1,3 @@
 # hello-world
-a sample repository
+Sample Repository
+This is my first sample repository DAMN!
